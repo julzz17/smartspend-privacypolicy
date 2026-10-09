@@ -1,5 +1,6 @@
 # Privacy Policy
 Privacy Policy for the app SmartSpend
+*[Version française plus bas](#politique-de-confidentialité)*
 
 This privacy policy applies to the SmartSpend AI Budget Maker app for mobile devices, together with any related services operated by Julzdev (collectively, the "Application"). Julzdev is hereby referred to as the "Service Provider".
 
@@ -37,3 +38,44 @@ If you voluntarily provide information to the Service Provider and processing is
 
 ### Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at smartspendbudget@gmail.com.
+
+---
+---
+
+# Politique de confidentialité
+
+### Politique de confidentialité pour l'application SmartSpend
+La présente politique de confidentialité s'applique à l'application SmartSpend AI Budget Maker pour appareils mobiles, ainsi qu'à tous les services connexes exploités par Julzdev (collectivement, l'« Application »). Julzdev est ci-après désigné sous le nom de « Fournisseur de services ».
+
+### Quelles informations l'Application obtient-elle et comment sont-elles utilisées ?
+L'Application ne collecte, n'enregistre ni ne stocke aucune information personnelle lorsque vous la téléchargez et l'utilisez. Aucun enregistrement n'est requis. Si l'Application est utilisée avec une connexion Internet active, des données de protocole technique (telles que votre adresse IP éphémère) sont transmises pour faciliter la connectivité réseau, mais ces données ne sont ni conservées ni utilisées à des fins de suivi.
+
+### L'Application collecte-t-elle des informations de géolocalisation précises et en temps réel de l'appareil ?
+Cette Application ne collecte aucune information précise concernant la localisation de votre appareil mobile.
+Des tiers ont-ils accès aux informations obtenues par l'Application ?
+Étant donné que l'Application ne collecte aucune information, aucune donnée n'est partagée avec des tiers.
+
+### Quels sont mes droits de retrait (opt-out) ?
+Comme l'Application ne collecte pas d'informations personnelles dans le cadre d'une utilisation normale, sa désinstallation suffit à la supprimer de votre appareil. Si vous contactez directement le Fournisseur de services ou fournissez volontairement des informations par d'autres moyens, vous pouvez demander la suppression de ces informations en écrivant à smartspendbudget@gmail.com.
+
+### Enfants
+L'Application n'est pas destinée aux enfants de moins de 16 ans, ou à tout âge supérieur requis par la loi applicable. Le Fournisseur de services ne sollicite pas sciemment de données auprès des enfants et ne réalise pas de démarches commerciales auprès d'eux. Comme l'Application ne collecte pas d'informations personnelles dans le cadre d'une utilisation normale, les données des enfants ne courent aucun risque du seul fait de l'utilisation de l'Application. Si vous fournissez volontairement des informations personnelles par d'autres moyens et que vous avez moins de 16 ans, votre parent ou tuteur doit donner son consentement en votre nom, lorsque la loi le permet.
+
+### Sécurité
+Étant donné que l'Application ne collecte pas de données personnelles, le risque d'exposition de ces données est minimal. Toutefois, aucun système de sécurité n'est totalement infaillible. Le Fournisseur de services met en œuvre des mesures de protection raisonnables pour sécuriser les systèmes et les données qu'il détient.
+Notification en cas de violation de données
+
+### L'Application ne collectant pas de données personnelles dans le cadre d'une utilisation normale, le risque qu'une violation de données affecte vos informations personnelles est minimal. Si une violation survient concernant des données que vous avez fournies volontairement, le Fournisseur de services vous en informera conformément aux exigences de la loi applicable.
+
+### Modifications
+Le Fournisseur de services peut mettre à jour cette Politique de confidentialité de temps à autre. Le Fournisseur de services vous informera de tout changement important en publiant la politique mise à jour avec une date d'entrée en vigueur. Lorsque la loi l'exige, le Fournisseur de services sollicitera votre consentement avant que les modifications importantes ne prennent effet.
+
+Les versions précédentes de cette Politique de confidentialité seront conservées et mises à disposition sur demande en contactant le Fournisseur de services à l'adresse smartspendbudget@gmail.com.
+
+Cette politique de confidentialité entre en vigueur le 08/10/2026.
+
+### Votre consentement
+Si vous fournissez volontairement des informations au Fournisseur de services et que le traitement est fondé sur le consentement, vous pouvez retirer ce consentement à tout moment sans porter atteinte au traitement effectué avant ce retrait.
+
+### Nous contacter
+Si vous avez des questions concernant la confidentialité lors de l'utilisation de l'Application, ou des questions concernant ces pratiques, veuillez contacter le Fournisseur de services par courriel à smartspendbudget@gmail.com.
